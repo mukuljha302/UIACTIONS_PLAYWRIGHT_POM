@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "@playwright/test": "^1.42.1",
     "dotenv": "^16.4.5"
@@ -9,3 +10,21 @@
 
 
 }
+=======
+  "name": "uiactions_playwright_pom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
+>>>>>>> 4ab550a2f5217f663877f267a0762e0b0d4283b8
